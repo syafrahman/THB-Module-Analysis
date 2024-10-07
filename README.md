@@ -35,11 +35,15 @@ The ultimate goal is to enhance understanding and categorization of academic con
    _Figure 1: Overview of data collection, preprocessing, and modeling steps._
 
 3. **Summary of LDA Topics**:
+
    ![Summary of LDA Topics](Summary%20of%20LDA%20Topics.png)
+   
    _Figure 2: A summary of the 10 identified topics using LDA._
 
-4. **LDA Topic Frequencies by Department**:
+5. **LDA Topic Frequencies by Department**:
+
    ![LDA Topic Frequencies by Department](/Semantic%20Similarity%20Results.png)
+
    _Figure 3: Heatmap showing LDA topic frequencies across various departments._
 
 ## WV (Word Vectors) Directory
@@ -57,7 +61,9 @@ The ultimate goal is to enhance understanding and categorization of academic con
 
 ### Figures for Word Vectors Analysis:
 4. **FastText Model Results**:
+
    ![FastText Semantic Similarity](LDA%20Topic%20Frequencies%20Heatmap.png)
+
    _Figure 4: Semantic similarity results from the FastText model._
 
 ## Conclusion
