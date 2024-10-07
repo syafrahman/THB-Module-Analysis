@@ -29,14 +29,16 @@ The ultimate goal is to enhance understanding and categorization of academic con
 
 ### Figures for LDA Analysis:
 1. **Text Data Processing Workflow**:
+
    ![Text Data Processing Workflow](Text%20Data%20Processing%20Workflow.png)
+   
    _Figure 1: Overview of data collection, preprocessing, and modeling steps._
 
-2. **Summary of LDA Topics**:
+3. **Summary of LDA Topics**:
    ![Summary of LDA Topics](Summary%20of%20LDA%20Topics.png)
    _Figure 2: A summary of the 10 identified topics using LDA._
 
-3. **LDA Topic Frequencies by Department**:
+4. **LDA Topic Frequencies by Department**:
    ![LDA Topic Frequencies by Department](/Semantic%20Similarity%20Results.png)
    _Figure 3: Heatmap showing LDA topic frequencies across various departments._
 
