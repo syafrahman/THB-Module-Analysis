@@ -29,15 +29,15 @@ The ultimate goal is to enhance understanding and categorization of academic con
 
 ### Figures for LDA Analysis:
 1. **Text Data Processing Workflow**:
-   ![Text Data Processing Workflow](Text Data Processing Workflow.png)
+   ![Text Data Processing Workflow](/Text Data Processing Workflow.png)
    _Figure 1: Overview of data collection, preprocessing, and modeling steps._
 
 2. **Summary of LDA Topics**:
-   ![Summary of LDA Topics](Summary of LDA Topics.png)
+   ![Summary of LDA Topics](/Summary of LDA Topics.png)
    _Figure 2: A summary of the 10 identified topics using LDA._
 
 3. **LDA Topic Frequencies by Department**:
-   ![LDA Topic Frequencies by Department](Semantic Similarity Results.png)
+   ![LDA Topic Frequencies by Department](/Semantic Similarity Results.png)
    _Figure 3: Heatmap showing LDA topic frequencies across various departments._
 
 ## WV (Word Vectors) Directory
@@ -55,7 +55,7 @@ The ultimate goal is to enhance understanding and categorization of academic con
 
 ### Figures for Word Vectors Analysis:
 4. **FastText Model Results**:
-   ![FastText Semantic Similarity](LDA Topic Frequencies Heatmap.png)
+   ![FastText Semantic Similarity](/LDA Topic Frequencies Heatmap.png)
    _Figure 4: Semantic similarity results from the FastText model._
 
 ## Conclusion
